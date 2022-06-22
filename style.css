@@ -82,3 +82,45 @@ body {
     left: 5%;
     transform: skewY(135deg);
 }
+
+/* Winner Area */
+#winnerArea {
+    text-align: center;
+    border: 8px solid black;
+    padding: 50px;
+    width: 50%;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+button{
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* is it visible classes */
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
