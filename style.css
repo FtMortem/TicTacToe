@@ -39,39 +39,46 @@ body {
 
 }
 
-.strike-row-T {
+.strikeRowT {
     width: 100%;
     height: 7px;
     top: 17%;
 }
-.strike-row-M {
+.strikeRowM {
     width: 100%;
     height: 7px;
     top: 51%;
 }
-.strike-row-B { 
+.strikeRowB { 
     width: 100%;
     height: 7px;
     top: 84%;
 }
-.strike-col-L {
+.strikeColL {
     width: 7px;
     height: 100%;
     left: 16%;
 }
-.strike-col-M {
+.strikeColM {
     width: 7px;
     height: 100%;
     left: 49.5%;
 }
-.strike-col-R {
+.strikeColR {
     width: 7px;
     height: 100%;
     left: 83%;
 }
-.strike-dia-LR {
-
+.strikeDiaLR {
+    width: 90%;
+    height: 10px;
+    top: 50%;
+    left: 5%;
+    transform: skewY(45deg);
 }
-.strike-dia-RL {
-
+.strikeDiaRL {width: 90%;
+    height: 10px;
+    top: 50%;
+    left: 5%;
+    transform: skewY(135deg);
 }
