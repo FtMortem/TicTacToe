@@ -1,2 +1,2 @@
 # TicTacToe
-First synth project
+First synth project.
