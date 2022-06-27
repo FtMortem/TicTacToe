@@ -84,7 +84,7 @@ body {
 }
 
 /* Winner Area */
-#winnerArea {
+#gameOverArea {
     text-align: center;
     border: 8px solid black;
     padding: 50px;
@@ -101,18 +101,6 @@ button{
     cursor: pointer;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
